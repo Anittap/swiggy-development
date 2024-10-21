@@ -1,0 +1,4 @@
+main/terraform.tfstate.backup
+main/.terraform.lock.hcl
+main/.terraform/
+modules/key-pair/mykey
